@@ -5,4 +5,4 @@
 > Currently, the project in not open source. This repo exists to track user submitted issues/feature requests.
 
 
-![ShowGrid](https://raw.githubusercontent.com/dvnlgls/ShowGrid/master/ShowGrid.png)
+![ShowGrid](https://raw.githubusercontent.com/dvnlgls/ShowGrid/master/ShowGrid_sthings.png)
